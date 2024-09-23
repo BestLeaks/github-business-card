@@ -7,7 +7,7 @@ export default function UserPage() {
       <Generator />
 
       <div className="p-2 prose self-stretch">
-        <h1><strong>This current version is a <ExternalLink href="https://github.com/BestLeaks/github-business-card">fork of Sebastien Castiel's github-business-card</strong> all credit goes to them</h1>
+        <h1><strong>This current version is a <ExternalLink href="https://github.com/BestLeaks/github-business-card">fork of Sebastien Castiel's github-business-card</ExternalLink></strong> all credit goes to them</h1>
         <h2>About</h2>
         <p>
           I’m{' '}

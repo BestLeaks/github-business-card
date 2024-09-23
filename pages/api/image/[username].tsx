@@ -52,7 +52,7 @@ export default async function handle(req: NextRequest) {
                 Get your card at
               </span>{' '}
               <span tw={`${dark ? `text-slate-300` : `text-slate-500`}`}>
-                crd.so
+                github-business-card-kappa.vercel.app
               </span>
             </div>
           )}

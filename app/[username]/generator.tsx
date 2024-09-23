@@ -86,7 +86,7 @@ export default function Generator() {
               onChange={(e) => setRemoveLink(e.target.checked)}
             />
             <label htmlFor="removeLink">
-              Remove <strong>crd.so</strong> link
+              Remove <strong>vercelapp</strong> link
             </label>
           </div>
         </div>
